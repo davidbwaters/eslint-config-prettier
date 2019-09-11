@@ -1,0 +1,14 @@
+{
+  "name": "@davidbwaters/eslint-prettier-config",
+  "version": "1.0.0",
+  "description": "Preferred ESLint config with Prettier conflicts removed.",
+  "main": "index.js",
+  "repository": "http://github.com/davidbwaters/eslint-config-prettier",
+  "author": "David B. Waters",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@davidbwaters/eslint-config": "^1.4.2",
+    "eslint-config-prettier": "^4.3.0"
+  }
+}
